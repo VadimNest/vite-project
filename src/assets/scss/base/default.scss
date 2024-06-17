@@ -1,0 +1,20 @@
+
+body {
+  margin: 0;
+  //   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+button {
+  border: unset;
+}
+
+#app {
+  width: 100vw;
+  height: 100vh;
+
+  .test {
+    width: 100px;
+    height: 100px;
+    background-color: $color-red;
+  }
+}
